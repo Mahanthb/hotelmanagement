@@ -1,0 +1,1 @@
+The provided C++ code is an implementation of a simple Hotel Room Management System. This system allows users to perform various operations related to hotel room management, such as booking a room, displaying customer records, listing allotted rooms, editing customer records, and more. The system uses file handling to store and retrieve customer data.
